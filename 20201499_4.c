@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int NUM = 10000;
+int NUM = 1000;
 int COUNT = 1;
 
 // 교재의 partition 함수
