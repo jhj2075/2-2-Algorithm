@@ -9,7 +9,7 @@ int max(int n1, int n2){
     else return n2;
 }
 
-int main() {
+int main(){
     int input, size, result;
     printf("n 값 입력 : ");
     scanf("%d", &input);
