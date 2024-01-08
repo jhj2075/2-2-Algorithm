@@ -86,8 +86,7 @@ void radix_sort(node **head)
     }
 }
 
-int main()
-{
+int main(){
     srand(time(NULL));
     int n, m;
 
